@@ -2,3 +2,4 @@
 - add product
 - add category
 - delete product
+- delete category
